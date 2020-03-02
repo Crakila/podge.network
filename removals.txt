@@ -1,0 +1,54 @@
+ALL = All Season
+S1 = Season 1 Only
+S1 - S3 = Season 1 - 3 Only!
+
+For series, I will try to keep the latest season. 
+Previous seasons can be re-requested at anytime!
+---
+
+SATURDAY 28th MARCH 2020
+
+TV SHOWS: 
+
+Bull (2016) - ALL
+The Crystal Maze (2017) - ALL
+The Blacklist - S5 & S6 (S7 kept)
+The Blacklist: Redemption - ALL
+Carnival Row - ALL
+Chernobyl - ALL
+Daybreak - ALL
+The Disappearance of Madeleine McCann - ALL
+Doctor Foster - ALL
+Family Guy - S1 - S17 (S18 kept)
+Fear The Walking Dead - S1 - S4 (S5 kept)
+Gotham - S4 (S5 is kept)
+Hanna - ALL
+Happy! - ALL
+Humans - ALL
+Love, Death & Robots - ALL
+Lucifer - ALL 
+Making a Murderer - ALL
+Marvel's Agents of SHIELD - S4 & S5 (S6 is kept)
+Marvel's Jessica Jones - ALL
+Marvel's The Defenders - ALL
+Marvel's The Punisher - ALL
+Masterchef US - ALL
+Melrose Place - ALL
+Melrose Place (2009) - ALL
+Mickey Mouse Clubhouse - ALL
+NCIS - S13 - S16 (S17 kept)
+NCIS: Los Angeles - ALL
+The Next Step - ALL
+The Price is Right - ALL
+Prison Break - ALL
+The Shannara Chronicles - ALL
+Smallville - ALL
+Star Trek: Discovery - ALL
+Top Gear - S27 (S28 kept)
+Two and a Half Men - ALL
+Unbelievable - ALL
+Wentworth - S1 & S6 (S7 kept)
+The Wire - ALL
+WOS Wrestling - ALL
+The X-Files - ALL
+
