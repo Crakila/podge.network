@@ -3804,7 +3804,7 @@ content {
 		#header a {
 			color: inherit;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
-			color: #ffffff;
+			color: red;
 		}
 
 		#header strong, #header b {
@@ -4152,8 +4152,9 @@ content {
 
 	}
 
-.alert.alert-danger{
+.alert.alert-warning{
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: -300px;
 }
