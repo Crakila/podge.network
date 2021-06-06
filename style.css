@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Press+Start+2P&display=swap');
+
+body {
+    background: url(images/wallpaper.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    color: #870000;
+}
+
+.link1 {
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 10px;
+    width: 61px;
+    margin-left: auto;
+    margin-right: 324px;
+    font-family: "Acme",Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+
+.link2 {
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 10px;
+    width: 61px;
+    margin-left: auto;
+    margin-right: 324px;
+    font-family: "Acme",Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.link {
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 10px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Acme",Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+
+a:link { text-decoration: none; color: white;}
+a:visited { text-decoration: none; color: white;}
+a:hover { text-decoration: none; color: white;}
+a:active { text-decoration: none; color: white;}
